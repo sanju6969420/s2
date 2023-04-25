@@ -1,5 +1,6 @@
-print("we are best in word")
+print("we are best in world")
 print("sheyas hi ")
 a=int("enter the ten numbers")
 print(a)
 print("mp,mla")
+print(" this is the vary bad college in the world  which college you can guess  jss/vpp/cpc")
